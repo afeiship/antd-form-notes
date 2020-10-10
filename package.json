@@ -1,0 +1,14 @@
+{
+  "name": "@feizheng/antd-form-notes",
+  "version": "1.0.0",
+  "description": "Antd form notes.",
+  "homepage": "https://github.com/afeiship/antd-form-notes",
+  "author": {
+    "name": "afeiship",
+    "email": "1290657123@qq.com"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  }
+}
